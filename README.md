@@ -1,7 +1,7 @@
    Olá, eu sou o Wesley Anhaia 👋
    
    
-- 🏫 Faço faculdade de Ciência da Computação na universidade UNESC
+-  📱 Faço faculdade de Ciência da Computação na universidade UNESC
 
 - 🖥️ Estou estudando HTML, CSS, JavaScript e C
 
