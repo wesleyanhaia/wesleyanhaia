@@ -14,7 +14,10 @@
 <br>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleyanhaia&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyanhaia&layout=compact&theme=radical)](https://github.com/wesleyanhaia/github-readme-stats)
+<div align="left">
+  <a href="https://github.com/wesleyanhaia">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wesleyanhaia&show_icons=false&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyanhaia&layout=compact&langs_count=7&theme=radical"/>
 
 
 
