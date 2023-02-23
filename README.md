@@ -16,8 +16,8 @@
 
 <div align="left">
 <a href="https://github.com/wesleyanhaia">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=wesleyanhaia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyanhaia&layout=compact&langs_count=7&theme=radical"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=wesleyanhaia&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=00000000&title_color=23B5D3&text_color=EFEFEF"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyanhaia&layout=compact&langs_count=7&theme=radical&bg_color=00000000&title_color=23B5D3&text_color=EFEFEF"/>
 
   ##
 
