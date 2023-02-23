@@ -5,7 +5,7 @@
 
 - 🖥️ Estou estudando HTML, CSS, JavaScript e C
 
-- 🛰️ Atualmente estou trabalhando em um laboratório de informática com bolsa de estudos
+- 🌐 Atualmente estou trabalhando em um laboratório de informática com bolsa de estudos
 
 - 📧 Meu email para contato é wesleyanhaiaa@gmail.com
 
@@ -31,8 +31,8 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/wesleyanhaia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:wesleyanhaiaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/wesleyanhaia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=94674C" target="_blank"></a>
+  <a href = "mailto:wesleyanhaiaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=E94134" target="_blank"></a>
 </div>
 
 
