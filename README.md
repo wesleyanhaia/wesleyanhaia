@@ -1,10 +1,11 @@
    Olá, eu sou o Wesley Anhaia 👋
-
-- 🛰️ Atualmente estou trabalhando em um laboratório de informática com bolsa de estudos
-
+   
+   
 - 🏫 Faço faculdade de Ciência da Computação na universidade UNESC
 
 - 🖥️ Estou estudando HTML, CSS, JavaScript e C
+
+- 🛰️ Atualmente estou trabalhando em um laboratório de informática com bolsa de estudos
 
 - 📧 Meu email para contato é wesleyanhaiaa@gmail.com
 
